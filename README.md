@@ -13,12 +13,12 @@ Before running the application, make sure you have the following installed:
 You can install the required dependencies using the following command:
 
 ```sh
-pip install Flask opencv-python-headless
+pip install Flask opencv-python-headless werkzeug
 ```
 ## Usage
 Clone this repository to your local machine:
 ```sh
-git clone Link
+git clone https://github.com/wpradab/qr_detect.git
 ```
 Navigate to the project directory:
 ```sh
