@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Logs
+*.log
+
+# Byte-compiled / optimized files
+*.pyc
+*.pyo
+__pycache__/
+
+# Image thumbnails
+.cache/
+
+# Environment variables file
+.env
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.swp
+*.swo
+
+# Ignore uploads directory
+uploads/
