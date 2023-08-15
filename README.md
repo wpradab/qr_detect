@@ -38,10 +38,3 @@ Contributions are welcome! If you find any issues or would like to enhance the a
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-```r
-
-Por supuesto, asegúrate de reemplazar `your-username` con tu nombre de usuario de GitHub y ajusta la estructura del repositorio y los detalles según tus necesidades. Este archivo README proporciona una introducción, instrucciones de instalación y uso, información sobre cómo contribuir y la licencia bajo la cual se comparte el proyecto. No olvides incluir un archivo `LICENSE` si decides utilizar una licencia diferente o si prefieres una específica.
-```
-
-
-
